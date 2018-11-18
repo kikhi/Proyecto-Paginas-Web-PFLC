@@ -1,5 +1,5 @@
 # Proyecto Paginas Web PFLC
-Primera pagina web realizada por mi en la preparatoria, basica ycon el fin de mostrar funciones basicas de una pagina web estatica.
+Primera pagina web realizada por mi en la preparatoria, basica y con el fin de mostrar funciones basicas de una pagina web estatica.
 
 Materia - Elabora paginas web (PFLC)
 
