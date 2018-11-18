@@ -1,2 +1,8 @@
 # Proyecto Paginas Web PFLC
-Proyecto de la materia elabora paginas web. (PFLC)
+Primera pagina web realizada por mi en la preparatoria, basica ycon el fin de mostrar funciones basicas de una pagina web estatica.
+
+Materia - Elabora paginas web (PFLC)
+
+## Notas
+Uso de HTML5 y bootstrap.
+No responsivo a celulares.
